@@ -1,6 +1,6 @@
 # I've joined the #100DaysOfCode Challenge
 
-Hi,my name is lucky and i have decide to join the #100DaysOfCode Challenge, read on below to see my daily progress what i am learning.
+Hi,my name is lucky and i have decide to join the #100DaysOfCode Challenge, read on below to see my daily progressg and  what i am learning.
 
 
 ## Contents
@@ -10,7 +10,7 @@ Hi,my name is lucky and i have decide to join the #100DaysOfCode Challenge, read
 - [Log - click here to see my progress](log.md)
 - [100 Days of code](100-days-of-code.md)
 
-## why i decided to join
+## why I decided to join
 
 From december 2022 throughout 2023, after surfing and wandering on the internet looking for information about web developmet and software engeering, I came across the [freeCodeCamp](https://www.freecodecamp.org/learn) curriculum. When i began learning starting with html and css, I was really excited and unsure but  each day I was on my computer screen  learning the enthusiasm and curiosity i had kept expanding.
 

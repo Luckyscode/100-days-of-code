@@ -2,7 +2,7 @@
 
 The log of my #100DaysOfCode challenge. Started on Sun 07 Apr 2024
 
-## Log
+## Logg
 
 ### Day 0: Sun, 07 Apr 2024
 ##### (delete me or comment me out)
@@ -11,4 +11,4 @@ The log of my #100DaysOfCode challenge. Started on Sun 07 Apr 2024
 
 **Thoughts:** last year when i first started i used to think Git and Github are of the same company,until i learnt otherwise. tomorow i will be be going through the [html and css foundations lesson](https://www.theodinproject.com/paths/foundations/courses/foundations)
 
-**Link to work:** [My Github repo ](https://github.com/Luckyscode/git-test/actions)
+**Link to work:** [my github repo](https://github.com/Luckyscode/git-test/)
