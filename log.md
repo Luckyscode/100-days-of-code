@@ -1,30 +1,14 @@
-# 100 Days Of Code - Log
+# #100DaysOfCode Log - Round 1 
 
-### Day 0: February 30, 2016 (Example 1)
+The log of my #100DaysOfCode challenge. Started on Sun 07 Apr 2024
+
+## Log
+
+### Day 0: Sun, 07 Apr 2024
 ##### (delete me or comment me out)
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**:Finally finished setting up my coding enviroment,I also learnt how to use the command line and some git basics which assits in pushing code to github i learnt this by creating my very own repository
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts:** last year when i first started i used to think Git and Github are of the same company,until i learnt otherwise. tomorow i will be be going through the [html and css foundations lesson](https://www.theodinproject.com/paths/foundations/courses/foundations)
 
-**Link to work:** [Calculator App](http://www.example.com)
-
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
-
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
-
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
-
-**Link(s) to work**: [Calculator App](http://www.example.com)
-
-
-### Day 1: June 27, Monday
-
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
-
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
-
-**Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+**Link to work:** [My Github repo ](https://github.com/Luckyscode/git-test/actions)
