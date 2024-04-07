@@ -9,7 +9,7 @@ Hi,my name is lucky and i have decide to join the #100DaysOfCode Challenge, read
 - [Rules](rules.md)
 - [Log - click here to see my progress](log.md)
 - [100 Days of code](100-days-of-code.md)
-
+  
 ## why I decided to join
 
 From december 2022 throughout 2023, after surfing and wandering on the internet looking for information about web developmet and software engeering, I came across the [freeCodeCamp](https://www.freecodecamp.org/learn) curriculum. When i began learning starting with html and css, I was really excited and unsure but  each day I was on my computer screen  learning the enthusiasm and curiosity i had kept expanding.
