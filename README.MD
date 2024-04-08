@@ -8,7 +8,7 @@ Hi,my name is lucky and i have decide to join the #100DaysOfCode Challenge, read
 - [lucky]()
 - [Rules](rules.md)
 - [Log - click here to see my progress](log.md)
-- [100 Days of code](100-days-of-code.md)
+- [About 100 days of code](100-days-of-code.md)
   
 ## why I decided to join
 

@@ -2,7 +2,7 @@
 
 The log of my #100DaysOfCode challenge. Started on Sun 07 Apr 2024
 
-## Logg
+## Log
 
 ### Day 0: Sun, 07 Apr 2024
 ##### (delete me or comment me out)
@@ -12,3 +12,14 @@ The log of my #100DaysOfCode challenge. Started on Sun 07 Apr 2024
 **Thoughts:** last year when i first started i used to think Git and Github are of the same company,until i learnt otherwise. tomorow i will be be going through the [html and css foundations lesson](https://www.theodinproject.com/paths/foundations/courses/foundations)
 
 **Link to work:** [my github repo](https://github.com/Luckyscode/git-test/)
+
+
+### Day 1: Mon, 08 Apr 2024 
+
+##### (delete me or comment me out)
+
+**Today's Progress**:today learned about  html and the different tags and elements that make up the content seen on a websites,i also learnt about header and paragraphs tags  and the relationship between all the elements within the html document,and the  various ways used to display information to the user.i learnt also about lists by completing 
+
+***Thoughts**:it was nice learning about html,i got to add upon the information i already knew  and also get tommorow i am going to be learning about  images and links aswell as commit messages, ready for tommorow 
+
+**Link to work:** [html document](Daily-lessons/Html-boilerplate/index.html)
